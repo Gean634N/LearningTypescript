@@ -10,7 +10,7 @@ console.log(`Number - Hexadecimal...: ${num1} tipo ${typeof(num1)}`);
 console.log(`Number - Octal...: ${num2} tipo ${typeof(num2)}`);
 console.log(`Number - Binario...: ${num3} tipo ${typeof(num3)}`);
 
-//Ex02 bigint
+//Ex02 bigint => `tsc app.ts` command returns console errors, but the application compiles normally.
 
 let big1: bigint = 9007199254740991n;
 let big2: bigint = 0b10000000000000000000000000000000000000000000n;
