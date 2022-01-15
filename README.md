@@ -1,2 +1,2 @@
 # Learning Typescript
-### Repository used to study and learn dtypescript
+### Repository used to study and learn typescript
